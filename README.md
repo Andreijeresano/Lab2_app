@@ -82,15 +82,16 @@ The tests check navigation, direct URL refreshes, active links, unknown routes, 
 
 The screenshot's written instructions require React; some rubric descriptions mention an HTML-only branch. Both are provided: the working React project is on `main`, and the original static page is on `no-style`.
 
-To submit on GitHub, create or choose a repository, add its actual URL as `origin`, and push both branches:
+GitHub repository: [Andreijeresano/Lab2_app](https://github.com/Andreijeresano/Lab2_app).
+
+The repository is configured as `origin`. To publish future changes to both branches:
 
 ```sh
-git remote add origin https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
 git push -u origin main
 git push origin no-style
 ```
 
-The URL above is a placeholder, not a published repository. Submit your actual repository URL after pushing. No remote is configured until a target repository is supplied.
+Submit this repository URL: https://github.com/Andreijeresano/Lab2_app.
 
 ## Hosting
 
